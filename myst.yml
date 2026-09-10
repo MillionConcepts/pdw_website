@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/MillionConcepts/pscw2026
+  github: https://github.com/MillionConcepts/pdw_website
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: pages/main.md
@@ -23,7 +23,7 @@ project:
     - file: pages/contact.md
 site:
   template: book-theme
-  url: https://planetaryworkshop.org
+  url: https://planetarydataworkshop.org
   options:
     favicon: image.png
     logo: image.png
