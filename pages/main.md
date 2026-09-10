@@ -17,7 +17,7 @@ site:
 | Location | Cornell University, Ithaca, NY |
 | Topics | Planetary Data Ecosystem (PDE), Planetary Spatial Data Infrastructure, software & data, archiving, tools, training, mapping |
 | Dates | June 14-17, 2027 |
-| Registration fee | TBD |
+| Registration fee | $100 |
 | Virtual registration fee | $0 |
 | Abstract fee | $0 USD |
 | Abstracts due | TBD |
@@ -60,7 +60,7 @@ The training elements of the workshop will be primarily focused towards early ca
 **UPDATES**
 * 2026.09.11
   * **SAVE THE DATE! More information coming soon!**
-  * A number of travel stipends up to $1800 are available for students and early career professionals. Stipends are open to undergraduate students, graduate students, and early career post-doctoral researchers. To be eligible for this grant, you must attend the entire workshop in person, be affiliated with a US institution at the time of the workshop, and be traveling domestically. [The application form for travel stipends is available now at this link.](https://docs.google.com/forms/d/e/1FAIpQLScE4MJUrrKN3LWr_suBtY1_FWWvJgiQ0OTmmUUStOIhXO7Axw/viewform) Applications are due by January 31, 2027, and notifications will be provided by February 15, 2027.
+  * A number of travel stipends up to $1850 are available for students and early career professionals. Stipends are open to undergraduate students, graduate students, and early career post-doctoral researchers. To be eligible for this grant, you must attend the entire workshop in person, be affiliated with a US institution at the time of the workshop, and be traveling domestically. [The application form for travel stipends is available now at this link.](https://docs.google.com/forms/d/e/1FAIpQLScE4MJUrrKN3LWr_suBtY1_FWWvJgiQ0OTmmUUStOIhXO7Axw/viewform) Applications are due by January 31, 2027, and notifications will be provided by February 15, 2027.
 
 ----
 
