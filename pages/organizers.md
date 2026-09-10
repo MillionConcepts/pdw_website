@@ -4,7 +4,7 @@
 
 #### Organizers
 
-The co-organizers of PSCW are Chase Million (Million Concepts), Zoe Learning Ponterio (Cornell, [SPIF](https://cornellspif.com/)), and Alex Hayes (Cornell, [SPIF](https://cornellspif.com/)).
+The co-organizers of PDW are Chase Million (Million Concepts), Zoe Learning Ponterio (Cornell, [SPIF](https://cornellspif.com/)), and Alex Hayes (Cornell, [SPIF](https://cornellspif.com/)).
 
 Please email questions to Chase (chase@millionconcepts) and Zoe (spif@cornell.edu).
 
