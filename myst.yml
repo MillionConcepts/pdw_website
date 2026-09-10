@@ -19,6 +19,7 @@ project:
     # - file: pages/logistics.md
     - file: pages/organizers.md
     - file: pages/conduct.md
+    - file: pages/stipend.md
     # - file: pages/budget.md
     - file: pages/contact.md
 site:
@@ -63,6 +64,8 @@ site:
         url: /organizers
       - title: Code of Conduct
         url: /conduct
+      - title: Travel Stipends
+        url: /stipend
       # - title: Budget & Costs
       #   url: /budget
       # - title: Contact
