@@ -1,6 +1,6 @@
 ### Abstracts
 
-Abstract submission for talks, posters, and training / workshops will open soon. Please fill out this [Indication of Interest form](TK) to be notified when that happens.
+Abstract submission for talks, posters, and training / workshops will open soon. Please fill out this [Indication of Interest form](https://docs.google.com/forms/d/e/1FAIpQLSfpg5M70Nh6WgcAhBpfTsbpm9NnsEQwo6BVz8Ga_5ebeAriGA/viewform) to be notified when that happens.
 #### AI Use Policy
 
 We will follow [the AI use policy of the journal Planetary Research](https://planetary-research.org/use-of-artificial-intelligence). If you use "AI" (in any form) as part of your abstract preparation, please read and adhere to this policy.[^1]

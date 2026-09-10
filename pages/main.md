@@ -27,12 +27,19 @@ site:
 | Travel Stipend Notifications | February 15, 2027 |
 
 
-::::{grid} 1 1 1 1
+::::{grid} 1 1 2 2
 :::{card}
 :link: https://docs.google.com/forms/d/e/1FAIpQLScE4MJUrrKN3LWr_suBtY1_FWWvJgiQ0OTmmUUStOIhXO7Axw/viewform
 
 **Click here for information about the travel stipend!**
 :::
+
+:::{card}
+:link: https://docs.google.com/forms/d/e/1FAIpQLSfpg5M70Nh6WgcAhBpfTsbpm9NnsEQwo6BVz8Ga_5ebeAriGA/viewform
+
+**Click here to submit an indication of interest!**
+:::
+
 
 ::::
 
